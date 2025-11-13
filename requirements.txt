@@ -1,2 +1,2 @@
 streamlit
-pyknow==1.4.1
+experta
