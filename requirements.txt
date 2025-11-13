@@ -1,2 +1,2 @@
 streamlit
-pyknow
+pyknow==1.4.1
