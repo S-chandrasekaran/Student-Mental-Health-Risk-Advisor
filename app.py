@@ -1,4 +1,4 @@
-from pyknow import *
+from experta import *
 
 class Student(Fact):
     """Student attributes"""
